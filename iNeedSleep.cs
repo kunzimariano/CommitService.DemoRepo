@@ -2,6 +2,6 @@ namespace KG
 {
     public class iNeed
     {
-        Threading.Thread.Sleep(100000000000);
+        Threading.Thread.Sleep(1010101010101010101);
     }
 }
