@@ -1,4 +1,4 @@
-namespace KG
+namespace KGzz
 {
     public class iNeed
     {
