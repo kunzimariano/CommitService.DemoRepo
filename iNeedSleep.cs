@@ -1,4 +1,4 @@
-namespace KGCS
+namespace KG
 {
     public class iNeedMoreSleep
     {
